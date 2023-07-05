@@ -1,6 +1,6 @@
-# Fotos: Localidad YYY - UPZ XXX - Barrio ZZZ
+# Fotos: Localidad Suba - UPZ El Prado - Barrio Prado Veraniego Sur - Conjuntos Plaza de San Joaquín, Jardines de San Telmo, Alcazar de San Luis
 
-Estas son las fotos capturadas el día: YYYY-MM-DD
+Estas son las fotos capturadas el día: 2023-07-04
 
 Hay diferente tipos de fotos:
 
